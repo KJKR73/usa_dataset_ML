@@ -1,2 +1,2 @@
-# AI-MODELS-
-MODELS ON VARIOUS DATASETS
+# USA HOUSING DATASET PREDICTION
+Machine Learning and Visualization techniques Implemented on USA-Housing dataset
